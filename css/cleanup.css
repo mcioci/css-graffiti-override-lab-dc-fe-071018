@@ -17,6 +17,6 @@
 .parent * {
   display: none;
 }
-.parent * #tag-7 {
+.parent * #tag-7 .slick {
   display: none;
 }
