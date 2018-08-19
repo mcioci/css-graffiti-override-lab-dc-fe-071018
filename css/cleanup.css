@@ -5,7 +5,7 @@
 #wall .parent #tag-4 {
   display: none;
 }
-#wall #tag-2 > #tag-3 {
+#wall #tag-2 ~ #tag-3 {
   display: none;
 }
 #wall div .parent #tag-7 .slick {
